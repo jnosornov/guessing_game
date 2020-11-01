@@ -1,5 +1,6 @@
 # A simple guess the number game
 
-- go to src folder: cd ./src
-- run the executable: ./main
-- play the game
+- clone the repository. `git clone git@github.com:jnosornov/guessing_game.git`
+- install rust
+- run `cargo run`
+- enjoy the game
